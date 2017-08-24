@@ -9,6 +9,7 @@ If you have any questions, please let me know and I’ll be happy to help. :-)
 Best,
 
 Michelle Sunga
+
 School Program Coordinator
-CodePath University
+
 [CodePath.org](https://codepath.org/)
